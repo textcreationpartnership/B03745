@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto His Grace, His Majesty's High Commissioner, and the Right Honourable, the Estates of Parliament. The humble petition of Margaret Lady Dowager of Belhaven.</title>
+            <author>Belhaven, Margaret Hamilton, Baroness, fl. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03745</idno>
+            <idno type="STC">Wing H485A</idno>
+            <idno type="STC">ESTC R177816</idno>
+            <idno type="EEBO-CITATION">51617626</idno>
+            <idno type="OCLC">ocm 51617626</idno>
+            <idno type="VID">175254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03745)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175254)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto His Grace, His Majesty's High Commissioner, and the Right Honourable, the Estates of Parliament. The humble petition of Margaret Lady Dowager of Belhaven.</title>
+                  <author>Belhaven, Margaret Hamilton, Baroness, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data from Wing.</note>
+                  <note>Concerning a bond of 13000 marks given to Mr. William Brown on the Belhaven estates.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Belhaven, Margaret Hamilton, --  Baroness, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Brown, William, fl. 1695 --  Trials, litigation, etc. --  Early works to 1800.</term>
+               <term>Debtor and creditor --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:175254:1" rendition="simple:additions"/>
+            <head>UNTO HIS GRACE, HIS MAJESTY'S HIGH COMMISSIONER. And the Right Honourable, The ESTATES OF PARLIAMENT.</head>
+            <head type="sub">The Humble Petition of MARGARET Lady Dowager of <hi>BELHAVEN.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THAT Sir <hi>Robert Hamiltoun</hi> of <hi>Preſmennan,</hi> one of the Senators of the Colledge of Juſtice, after he purchaſed the Lord <hi>Belhaven</hi>'s Eſtate, did grant Band to Mr. <hi>William Brown</hi> for 13000 Merks, with Annualrents and Expenſes <hi>Anno</hi> 1672, in manner therein contained, payable at the firſt Term of <hi>Whitſunday,</hi> or <hi>Martinmaſs</hi> next, after the Expiration of Year and Day, after the Death or Marriage of Mrs. <hi>Elizabeth Hamiltoun,</hi> Daugh<g ref="char:EOLhyphen"/>ter to the ſaid Lord <hi>Belhaven:</hi> And conform to an Precept of Seaſing therein ſpeci<g ref="char:EOLhyphen"/>fied, Mr. <hi>William Brown</hi> for his further Security thereanent, was Infeft in the Lands of <hi>Newbarns,</hi> &amp;c. And in <hi>Anno</hi> 1680, Mr. <hi>William Brown</hi> did diſpone the ſame to Your Petitioner, who alſo was Infeft in the ſaids Lands: And thereafter Your Pe<g ref="char:EOLhyphen"/>titioner did diſpone 12000 Merks thereof to the ſaid Mrs. <hi>Elizabeth,</hi> with this ſpe<g ref="char:EOLhyphen"/>cial Quality, That notwithſtanding thereof, it ſhould be <hi>Leiſum</hi> to Your Petitio<g ref="char:EOLhyphen"/>ner to diſpoſe upon the foreſaids Sums of Money, in hail, or in part, without conſent of Mrs. <hi>Elizabeth,</hi> at any time of her Life: And with the burden of which Proviſion, the Diſpoſition was granted and accepted: Notwithſtanding whereof. Mrs. <hi>Elizabeth</hi> being afterwards Married to the Viſcount of <hi>Kingſtoun,</hi> ſhe did diſ<g ref="char:EOLhyphen"/>pone her Right to the foreſaid Sums, in favours of Sir <hi>John Seaton</hi> of <hi>Garletoun,</hi> who did raiſe a Proceſs of Declarator againſt Your Petitioner and Mr. <hi>William Brown,</hi> with a Concluſion of Payment againſt <hi>Preſmennan,</hi> that it might be decla<g ref="char:EOLhyphen"/>red, That the undoubted Right to that Sum did originally belong to Mrs. <hi>Eliza<g ref="char:EOLhyphen"/>beth,</hi> and that the Lord <hi>Preſmennan</hi> might be decerned to make payment thereof to him, as Aſſigney by her: Conform whereunto, Sir <hi>George Seaton</hi> to whom the ſaid Sir <hi>John</hi> had diſponed the ſame before his deceaſe, having a conſiderable Inte<g ref="char:EOLhyphen"/>reſt with theſe intruſted in the Government at the time, and Influence upon the Bench, did obtain an Decreet, Finding and Declaring, That Mr. <hi>William Brown</hi>'s Name was originally intruſted in the ſaid Bond, for the behoof of the ſaid Mrs. <hi>Elizabeth Hamiltoun</hi> Lady <hi>Kingſtoun:</hi> And ſeing that Decreet was founded upon Mr. <hi>William Brown</hi>'s Oath, albeit he was denuded thereof in favours of Your Petitio<g ref="char:EOLhyphen"/>ner long before, for moſt onerous Cauſes, and ſhe Infeft as ſaid is; and that Mrs. <hi>Elizabeth</hi> had accepted of a Diſpoſition thereto from Your Petitioner, her Mother, with the burden of the foreſaid Faculty; and that Mr. <hi>William Brown</hi>'s Oath, if duely conſidered, was no ſufficient Ground for any ſuch Declarator; and that it appears obviouſly to have been done to gratify <hi>Garletoun,</hi> who was a <hi>Papiſt,</hi> in ſo far as, by Mr. <hi>William Brown</hi>'s Depoſition, it is clear, that my Lord <hi>Belhaven</hi> having intruſted his Name in that Bond, without Back-bond, he did, upon the
+<pb n="2" facs="tcp:175254:2"/>Faith thereof, advance to his Lordſhip 6000 Merks, or thereby, not doubting but that, by the Effects in his own Hand, he was ſecured; and of which Sum Your Petitioner did make payment to him, when he diſponed the Bond to her: Yet nevertheleſs when the late Earl of <hi>Melfort,</hi> who was alſo a <hi>Papiſt,</hi> got Right to a Sum due by the Lord <hi>Belhaven</hi> to the Laird of <hi>Duchel,</hi> did comp<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r for his Intereſt, and craved that my Lord <hi>Preſmennan</hi>'s Debt might be ſubject to his pay<g ref="char:EOLhyphen"/>ment, the Lords did find, That it ought to be ſo: Whereby it is palpable, that theſe Interloquitors were calculate to gratify the <hi>Popiſh</hi> Party, upon the Expence of Your Petitioner, who was a <hi>Proteſtant.</hi> 2do. The foreſaid Decreet of Decla<g ref="char:EOLhyphen"/>rator was yet ſo much the more unjuſt. That albeit theſe Lords had found that the Sum due by <hi>Preſmennan</hi> was affectable with the Debt due by <hi>Belhaven</hi> to <hi>Duchel,</hi> to which my Lord <hi>Melfort</hi> had then Right; yet becauſe <hi>Garletoun</hi> was thereby to loſe ſo much of his Claim, they, to gratify him, ordained the Earl of <hi>Melfort,</hi> upon his obtaining payment out of that Fond, to aſſign to <hi>Garletoun</hi> as much of the Debt due by <hi>Belhaven</hi> to <hi>Duchel;</hi> and that not only againſt the Lord <hi>Belhaven,</hi> who was principal Debitor, and by whoſe Effects he was ſwa ordained to be ſatisfied, but alſo againſt the Cautioners in <hi>Duchel</hi>'s Band, that ſo neither of the <hi>Popiſh</hi> Pur<g ref="char:EOLhyphen"/>ſuers might ſuffer. By which Decreet and Interloquitors therein contained, Your Petitioner was enormly leaſed; but the ſamen being pronounced before the Act of Parliament, allowing Proteſtations for Remeed of Law, ſhe had no acceſs for Re<g ref="char:EOLhyphen"/>dreſs: And though Your Petitioner ſhould proſecute a Reduction before the Lords of Seſſion, they will be precluded from their Determination therein by this An<g ref="char:EOLhyphen"/>ſwer, That the Grounds whereupon ſhe quarrels theſe Interloquitors, are already Proponed and Repelled: So that the Review thereof is only competent to the E<g ref="char:EOLhyphen"/>ſtates of Parliament, unleſs a ſpecial Warrand were granted to the Lords of Seſſion to Cognoſce thereupon, and Determine therein, without regard to the former Decreet, or Interloquitors whereupon the ſamen is founded.</p>
+            <p>
+               <hi>May it therefore pleaſe Your Grace and Lordſhips, to Grant Warrand to Your Petitio<g ref="char:EOLhyphen"/>ner to Cite the ſaid Laird of</hi> Garletoun, <hi>and all other Parties pretending Intereſt, upon ſuch Dayes as are preſcrived by Act of Parliament in this preſent current Seſſion regulating Citations before this high &amp; ſoveraign Court, to hear and ſee the ſaid Decreet of Declarator, with the Interloquitors whereupon the ſamen is founded and all that has followed, or is competent to follow thereupon Reduced, by a Decreet of Your Grace &amp; Lops: and the Sums contained in the ſaid Bond found and declared to be in the firſt place, ſubject and liable to the Debt, which was due by my Lord</hi> Belhaven <hi>to the ſaid Maſter</hi> William Brown, <hi>whoſe Name was intruſted therein without Back-band, and the Remainder thereof to be at Your Petitioners diſpoſal, in reſpect of the Quality contained in the ſaid Diſpoſition, whereby the ſamen was tranſmitted to the ſaid Mrs.</hi> Elizabeth Hamiltoun <hi>Lady</hi> Kingſtoun: <hi>Or at leaſt to remit to the Lords of Seſſion to Cognoſce thereupon, and Decide therein, as though no ſuch Decreet or Interloquitors had been heretofore pronounced.</hi>
+            </p>
+            <p>According to Juſtice: And Your Grace and Lordſhips Anſwer.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
